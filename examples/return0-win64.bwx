@@ -1,0 +1,3 @@
+# Minimal raw x86-64 entry payload for the PE container proof.
+xor rax, rax
+ret

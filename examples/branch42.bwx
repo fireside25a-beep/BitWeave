@@ -1,0 +1,13 @@
+mov rax, 60
+mov rdi, 41
+inc rdi
+cmp rdi, 42
+jne fail
+push rdi
+pop rsi
+cmp rsi, 42
+jne fail
+syscall
+fail:
+mov rdi, 1
+syscall

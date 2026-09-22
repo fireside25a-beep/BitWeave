@@ -1,0 +1,4 @@
+# Human lens. This is not the canonical implementation; x86-encode emits exact bits.
+mov rax, 60
+mov rdi, 42
+syscall
