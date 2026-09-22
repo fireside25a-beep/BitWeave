@@ -180,7 +180,6 @@ assets/       static project diagrams
 - [`docs/BINARY_SOURCE.md`](docs/BINARY_SOURCE.md)
 - [`docs/PROVENANCE.md`](docs/PROVENANCE.md)
 - [`docs/TESTING.md`](docs/TESTING.md)
-- [`docs/VISUALS.md`](docs/VISUALS.md)
 
 ## License
 
